@@ -1,0 +1,15 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+body{
+    background: #c39EA0;
+
+}
+.container{
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 10%;
+    border-radius: 20px;
+}
